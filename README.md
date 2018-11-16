@@ -1,2 +1,4 @@
 # Udacity-Openstreetmap
 Project for Udacity Data Analyst Nanodegree
+
+This project wrangles the geographical data of the Boston, MA, USA area to facilitate its analysis and allow the process of storage, querying, and aggregation of this information using SQL. Data is loaded from the OpenStreetMap (OSM) platform, which is a collaborative project to create a free editable map of the world. The ﬁrst section describes the problems found at the time of the data cleaning process and the methods used to resolve them. The next section includes general statistics of the dataset computed, such as ﬁles izes, number of nodes and ways, unique users and type of nodes, like cafes, shops etc. The last part includes suggestions to improve the analysis with a discussion about the beneﬁts as well as some anticipated problems of their implementation.
